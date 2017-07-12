@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "SuperMan",
+    "name": "超人",
+    "authors": [ "Ran" ],
+    "maintainers": [ "Ran" ],
+    "description": "更轻松的生存.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

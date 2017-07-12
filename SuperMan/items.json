@@ -1,0 +1,39 @@
+[{
+		"id": "supper_tank",
+		"type": "CONTAINER",
+		"category": "other",
+		"name": "超级大容器",
+		"description": "超大容器，拿去装海吧",
+		"weight": 5,
+		"volume": 1,
+		"price": 10000,
+		"to_hit": -4,
+		"bashing": 6,
+		"material": ["steel"],
+		"symbol": "}",
+		"color": "light_cyan",
+		"contains": "6000L",
+		"seals": true,
+		"watertight": true,
+		"qualities": [["BOIL", 1]]
+	}, {
+		"id": "super_tool",
+		"type": "TOOL",
+		"name": "超级万能工具",
+		"description": "可以替代所有工具.",
+		"weight": 628,
+		"volume": 4,
+		"price": 4000,
+		"to_hit": 1,
+		"bashing": 10,
+		"cutting": 8,
+		"material": "steel",
+		"symbol": "/",
+		"color": "dark_gray",
+		"qualities": [["CUT", 30], ["DIG", 30], ["BUTCHER", 30], ["BOIL", 30], ["DISTILL", 30],
+			["CHEM", 30], ["SAW_W", 30], ["SAW_M", 30], ["COOK", 30], ["CONTAIN", 30], ["DRILL", 30],
+			["SMOKE_PIPE", 30], ["PRY", 30], ["AXE", 30], ["HAMMER", 30]
+		],
+		"flags": ["DURABLE_MELEE", "NEEDS_UNFOLD"]
+	}
+]

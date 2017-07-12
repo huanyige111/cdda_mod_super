@@ -1,0 +1,35 @@
+[
+	{
+		"type": "material",
+		"ident": "supper_cotton",
+		"name": "超级布料",
+		"density": 3,
+		"soft": true,
+		"bash_resist": 300,
+		"cut_resist": 300,
+		"acid_resist": 300,
+		"fire_resist": 300,
+		"elec_resist": 300,
+		"chip_resist": 300,
+		"repaired_with": "rag",
+		"salvaged_into": "rag",
+		"dmg_adj": ["ripped", "torn", "shredded", "tattered"],
+		"bash_dmg_verb": "ripped",
+		"cut_dmg_verb": "cut",
+		"burn_data": [{
+				"fuel": 1,
+				"smoke": 1,
+				"burn": 1,
+				"chance": 5
+			}, {
+				"fuel": 1,
+				"smoke": 1,
+				"burn": 1
+			}, {
+				"fuel": 1,
+				"smoke": 1,
+				"burn": 2
+			}
+		]
+	}
+]

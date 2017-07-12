@@ -1,0 +1,51 @@
+[{
+		"type": "profession",
+		"ident": "superman",
+		"name": "超人",
+		"description": "专业毁游数十年。",
+		"points": 5,
+		"skills": [{
+				"level": 3,
+				"name": "survival"
+			}, {
+				"level": 3,
+				"name": "fabrication"
+			}, {
+				"level": 1,
+				"name": "tailor"
+			}, {
+				"level": 3,
+				"name": "gun"
+			}, {
+				"level": 2,
+				"name": "archery"
+			}, {
+				"level": 2,
+				"name": "cooking"
+			}
+		],
+		"CBMs": [
+			"bio_advreactor",
+			"bio_blood_filter",
+			"bio_climate",
+			"bio_faraday",
+			"bio_fingerhack",
+			"bio_geiger",
+			"bio_gills",
+			"bio_heatsink",
+			"bio_lighter",
+			"bio_lockpick",
+			"bio_nanobots",
+			"bio_tools",
+			"bio_torsionratchet",
+			"bio_flashlight",
+			"bio_power_storage_mkII",
+			"bio_power_storage_mkII",
+			"bio_power_storage_mkII",
+			"bio_purifier"
+		],
+		"items": {
+			"both": ["super_kai"]
+		}
+	}
+]

@@ -1,0 +1,23 @@
+[{
+		"id": "super_kai",
+		"type": "ARMOR",
+		"category": "armor",
+		"name": "超级铠甲",
+		"description": "全身覆盖铠甲，防所有伤害.",
+		"weight": 2,
+		"volume": 1,
+		"price": 400000,
+		"to_hit": 0,
+		"material": ["supper_cotton"],
+		"symbol": "[",
+		"color": "light_red",
+		"covers": ["HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET"],
+		"coverage": 100,
+		"encumbrance": 1,
+		"warmth": 50,
+		"storage": "300L",
+		"material_thickness": 3,
+		"environmental_protection": 5000,
+		"flags": [ "VARSIZE", "WATERPROOF", "HOOD", "RAINPROOF", "STURDY", "RAD_RESIST", "OUTER" ]
+	}
+]
