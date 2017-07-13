@@ -32,7 +32,7 @@
 		"color": "dark_gray",
 		"qualities": [["CUT", 30], ["DIG", 30], ["BUTCHER", 30], ["BOIL", 30], ["DISTILL", 30],
 			["CHEM", 30], ["SAW_W", 30], ["SAW_M", 30], ["COOK", 30], ["CONTAIN", 30], ["DRILL", 30],
-			["SMOKE_PIPE", 30], ["PRY", 30], ["AXE", 30], ["HAMMER", 30]
+			["SMOKE_PIPE", 30], ["PRY", 30], ["AXE", 30], ["HAMMER", 30],["GLARE",30]
 		],
 		"flags": ["DURABLE_MELEE", "NEEDS_UNFOLD"]
 	}
